@@ -1,0 +1,7 @@
+{
+  "name": "Finger Counter AI",
+  "description": "A real-time AI application that uses your camera to count how many fingers you are holding up using Gemini Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
